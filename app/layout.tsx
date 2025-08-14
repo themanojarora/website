@@ -12,8 +12,8 @@ const dmSans = DM_Sans({
 export const metadata: Metadata = {
   title: "Manoj Arora - Regulatory Data Analytics & AI Expert",
   description:
-    "Senior Manager at SEBI specializing in AI-driven regulatory supervision, data analytics, and fintech innovation.",
-  generator: "v0.app",
+    "Manager at SEBI specializing in AI-driven regulatory supervision, data analytics, and fintech innovation.",
+
 }
 
 export default function RootLayout({
